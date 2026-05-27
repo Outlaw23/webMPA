@@ -1,0 +1,46 @@
+
+.DS_Store
+Thumbs.db
+
+
+# IDE
+
+.idea/
+*.iml
+out/
+
+
+# Logs
+
+*.log
+
+
+# Backend (Spring Boot / Maven)
+
+backend/target/
+
+
+# Frontend (React)
+
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+
+# Environment files
+
+.env
+.env.local
+
+
+# Build folders
+
+build/
+dist/
+
+
+# Temp files
+
+*.tmp
+*.temp
+*.swp
