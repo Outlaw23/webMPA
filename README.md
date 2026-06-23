@@ -20,5 +20,31 @@ This project was developed as part of a school assignment and demonstrates the u
 | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Maven](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg) | ![MariaDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg) | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
 ---
 
+### Home Page
 
+this is the Home page 
 
+![home_Screen.png](Img_README/home_Screen.png)
+
+---
+### Genres Page
+
+this is the genres page (Songs are currently standing as a test.)
+
+![genres_Screen.png](Img_README/genres_Screen.png)
+
+---
+## What is next
+
+- genres migration
+---
+### coming soon
+- genres seeder
+- Genre model
+- Genre controller-index
+- Genre view-index
+
+### done
+
+- song test
+- setup 
