@@ -35,23 +35,20 @@ this is the genres page (Songs are currently standing as a test.)
 
 ---
 ## What is next
-- songs migration
-- songs seeder
-
----
-### coming soon
-- songs migration
-- songs seeder
 - Song model
 - Song controller-index
 - Song view-index
 
 
-
+---
+### coming soon
+- Song details view
 
 
 
 ### done
+- songs migration
+- songs seeder
 - Genre model
 - Genre controller-index
 - Genre view-index
