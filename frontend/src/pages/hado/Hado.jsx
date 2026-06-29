@@ -2,24 +2,22 @@ import { useEffect, useState } from "react";
 import "./Hado.css";
 
 function Hado() {
-    const [songs, setSongs] = useState([]);
+    const [genres, setGenres] = useState([]);
 
     useEffect(() => {
-        fetch("http://localhost:8080/api/songs")
+        fetch("http://localhost:8080/api/genres")
             .then((response) => response.json())
-            .then((data) => setSongs(data))
+            .then((data) => setGenres(data))
             .catch((error) => console.error("Fout:", error));
     }, []);
 
     return (
         <div className="hado-container">
-            <h1>Songs</h1>
+            <h1>Genres</h1>
 
-            {songs.map((song) => (
-                <div key={song.id} className="song-card">
-                    <h3>{song.title}</h3>
-                    <p>🎤 {song.artist}</p>
-                    <p>💿 {song.album}</p>
+            {genres.map((genre) => (
+                <div key={genre.id} className="song-card">
+                    <p>{genre.name}</p>
                 </div>
             ))}
         </div>
