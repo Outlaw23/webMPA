@@ -4,7 +4,7 @@ function Navbar() {
             <div className="nav-container">
                 <a href="/public">Home</a>
                 <a href="/hado">Genres</a>
-                <a href="/hador">.-.</a>
+                <a href="/hador">Songs</a>
                 <a href="/learn">.-.</a>
                 <a href="/info">.-.</a>
             </div>

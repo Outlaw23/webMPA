@@ -19,6 +19,7 @@ public class SongSeeder {
 				test.setTitle("test");
 				test.setArtist("test");
 				test.setAlbum("test");
+				test.setLength(120);
 
 
 				repository.save(test);

@@ -35,18 +35,19 @@ this is the genres page (Songs are currently standing as a test.)
 
 ---
 ## What is next
-- Song model
-- Song controller-index
-- Song view-index
-
+- Song details view
 
 ---
 ### coming soon
-- Song details view
-
+Button genres
+Genres in navbar
+screens for genres
 
 
 ### done
+- Song model
+- Song controller-index
+- Song view-index
 - songs migration
 - songs seeder
 - Genre model

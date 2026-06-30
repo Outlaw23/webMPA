@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import "./Hado.css";
+import "./Genres.css";
 
-function Hado() {
+function Genres() {
     const [genres, setGenres] = useState([]);
 
     useEffect(() => {
@@ -24,4 +24,4 @@ function Hado() {
     );
 }
 
-export default Hado;
+export default Genres;
