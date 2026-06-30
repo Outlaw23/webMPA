@@ -22,16 +22,24 @@ This project was developed as part of a school assignment and demonstrates the u
 
 ### Home Page
 
-this is the Home page 
+this is the Home page (is still empty that will come later)
 
 ![home_Screen.png](Img_README/home_Screen.png)
 
 ---
 ### Genres Page
 
-this is the genres page (Songs are currently standing as a test.)
+this is the genres page (This shows the genres the website has.)
+
 
 ![genres_Screen.png](Img_README/genres_Screen.png)
+
+
+### songs page
+this is the songs page (I will show the songs that the website has)
+
+![songs_Screen](Img_README/songs_Screen.png)
+
 
 ---
 ## What is next
@@ -39,9 +47,9 @@ this is the genres page (Songs are currently standing as a test.)
 
 ---
 ### coming soon
-Button genres
-Genres in navbar
-screens for genres
+- Button genres
+- Genres in navbar
+- screens for genres
 
 
 ### done
